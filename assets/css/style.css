@@ -1,0 +1,77 @@
+body {
+    font-family: "Cabin", sans-serif;
+    color: #373a3c;
+}
+
+footer {
+    padding: 30px;
+}
+
+hr {
+    background-color: #373a3c;
+    border-width: 2px;
+}
+
+.oscuro {
+    background-color: #373a3C;
+    color: #fff;
+}
+
+.pizza-rica figure img {
+    width: 100%;
+}
+
+.pizza-content {
+    width: 80%;
+}
+
+.carousel-indicators {
+    position: absolute;
+    bottom: -65px;
+}
+
+.carousel-indicators li {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #373a3c;
+}
+
+.receta .row .preparacion p {
+    width: 70%;
+} 
+
+.receta .ingredientes ul {
+    list-style: none;
+    padding: 0;
+}
+
+.receta li, .receta p {
+    font-size: 20px;
+}
+
+.titles-hr {
+    width: 35%;
+    margin-left: 0;
+}
+
+.otras-recetas h2 {
+    font-size: 40px;
+}
+
+.newsletter {
+    padding: 150px;
+    margin-top: 60px;
+    color: #fff;
+}
+
+.newsletter p {
+    font-size: 30px;
+}
+
+
+.ricomida {
+    color: #ffffff;
+    font-family: "Lobster", cursive;
+    font-size: 37px;
+}
